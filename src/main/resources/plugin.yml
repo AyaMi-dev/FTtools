@@ -1,0 +1,14 @@
+name: FTtools
+version: '1.0'
+main: io.github.chaechae.FTtools
+api-version: '1.20'
+authors: [FT, chaechae]
+description: FT 툴
+website: https://github.com/ChaechaeDeveloper
+commands:
+  q:
+    description: 퀘스트
+    aliases:
+      - quest
+      - 퀘스트
+    usage: /q
